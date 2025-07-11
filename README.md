@@ -1,6 +1,6 @@
-#PROJECT TITLE : REACT QUIZ APP
+# PROJECT TITLE : REACT QUIZ APP
 
-##DESCRIPTION :
+## DESCRIPTION :
 
 The React Quiz App is a beginner-friendly project developed for a React learners, designed to practice and demonstrate core concepts of React development. This application serves as a hands-on implementation of fundamental React hooks, component structuring, and logic building.
 
@@ -28,9 +28,9 @@ Whether you're starting your journey with React or exploring how to build small 
   
 - [Vite](https://vitejs.dev/)
 
-  ##INSTALLATION AND SETUP
+  ## INSTALLATION AND SETUP
   
-  ###(BASH)
+  ### (BASH)
   
 git clone https://github.com/your-username/react-quiz-app.git
 
