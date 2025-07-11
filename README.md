@@ -1,4 +1,5 @@
-##PROJECT TITLE : REACT QUIZ APP
+#PROJECT TITLE : REACT QUIZ APP
+
 ##DESCRIPTION :
 
 The React Quiz App is a beginner-friendly project developed for a React learners, designed to practice and demonstrate core concepts of React development. This application serves as a hands-on implementation of fundamental React hooks, component structuring, and logic building.
@@ -16,3 +17,27 @@ Built using React's useState{} and useRef{} hooks, the app focuses on dynamic st
 - How to reset or replay a game without refreshing the page
   
 Whether you're starting your journey with React or exploring how to build small projects from scratch, this quiz app is a great reference and practice ground.
+
+## TECK STACK
+
+- React
+  
+- JavaScript
+  
+- HTML/CSS
+  
+- [Vite](https://vitejs.dev/)
+
+  ##INSTALLATION AND SETUP
+  
+  ###(BASH)
+  
+git clone https://github.com/your-username/react-quiz-app.git
+
+cd react-quiz-app
+
+npm install
+
+npm run dev
+
+  
