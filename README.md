@@ -18,6 +18,12 @@ Built using React's useState{} and useRef{} hooks, the app focuses on dynamic st
   
 Whether you're starting your journey with React or exploring how to build small projects from scratch, this quiz app is a great reference and practice ground.
 
+## LIVE DEMO 
+
+KINDLY VISIT THE LINKEDIN PAGE :
+
+https://www.linkedin.com/in/jiyajindal/
+
 ## TECK STACK
 
 - React
@@ -28,9 +34,9 @@ Whether you're starting your journey with React or exploring how to build small 
   
 - [Vite](https://vitejs.dev/)
 
-  ## INSTALLATION AND SETUP
+## INSTALLATION AND SETUP
   
-  ### (BASH)
+### (BASH)
   
 git clone https://github.com/your-username/react-quiz-app.git
 
