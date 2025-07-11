@@ -1,0 +1,106 @@
+*{
+  margin: 0;
+  /* padding: 0; */
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* body{
+  /* height: 100vh;
+  width: 100vw; */
+ 
+img{
+  /* justify-self: end; */
+  /* background-color: aqua; */
+  overflow: hidden ;
+  position:absolute;
+  margin-top: -90vh;
+  height: 20vh;
+  width: 100%;
+padding-left: 1200px;
+
+}
+#bgVideo {
+  position: fixed;
+  top: -200px;
+  left: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+}
+#container{
+  height: 70vh;
+  width: 35vw;
+  background-color: black;
+  border-radius: 20%;
+  box-shadow: 4px 6px 12px 0px rgba(149, 18, 209, 0.5);;
+ margin: 100px 0px 0px 100px;
+ padding: 30px;
+ color: beige;
+}
+#container h1{
+  color: rgba(196, 13, 196, 0.808);
+  text-shadow: 2px 2px 5px rgba(241, 190, 235, 0.25);
+  justify-self: center;
+}
+#container hr {
+  margin: 10px;
+  height: 1px;
+  border: none;
+  background-color: rgba(190, 96, 190, 0.808);
+ 
+}
+#container h2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-self: center;
+  color: rgb(228, 173, 235);
+text-shadow: 2px 2px 5px rgba(245, 222, 242, 0.25);
+  
+}
+#container ul li{
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding-left: 15px;
+  border: 1px solid rgba(189, 58, 189, 0.39);
+  border-radius: 8px;
+  margin-bottom: 8px;
+  font-size: 18px;
+  color: rgb(214, 145, 214);
+  cursor: pointer;
+}
+#container ul li:hover{
+  box-shadow: 2px 1px 1px 1px rgba(182, 17, 146, 0.3);
+}
+#container li:hover{
+  text-shadow: 2px 1px 1px 1px rgba(182, 17, 146, 0.3);
+  font-size: 19px;
+}
+#container button{
+  width: 50%;
+  height: 10%;
+  border-radius: 10px;
+ margin-left: 25%;
+ margin-top: 20px;
+ background-color: black;
+ border-color:rgba(209, 24, 209, 0.692) ;
+ box-shadow: 4px 6px 12px 0px rgba(149, 18, 209, 0.2);
+ color:rgb(224, 8, 224) ;
+ font-size: 15px;
+ /* justify-self: center; */
+}
+.footer{
+  justify-self: center;
+  margin-top: 20px;
+  color: rgb(235, 123, 229);
+  font-size: 15px;
+}
+#container .correct{
+  /* background-color: rgb(223, 138, 28); */
+  color: rgba(13, 212, 13, 0.664);
+}
+#container .incorrect{
+  /* background-color: antiquewhite; */
+  color: rgb(252, 69, 56,0.664);
+}
